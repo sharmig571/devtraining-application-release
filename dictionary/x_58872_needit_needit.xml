@@ -26,6 +26,6 @@
             </choice>
         </element>
         <element label="New field 1" max_length="40" name="new_field_1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="40" label="Requester for phone number" mandatory="true" max_length="40" name="u_requested_for_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="+91 9836-288042" label="Requester for phone number" mandatory="true" max_length="40" name="u_requested_for_phone_number" type="string"/>
     </element>
 </database>
